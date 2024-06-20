@@ -4,7 +4,16 @@ export default function Home() {
   return (
     <div>
       <Link href="/">
-        {" "}
+        <h1>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias cumque
+          nostrum quibusdam nihil tempora natus consequuntur ducimus officiis,
+          amet ut consectetur laboriosam commodi officia ratione quod
+          exercitationem sapiente! Nam, distinctio. Lorem ipsum dolor sit amet
+          consectetur adipisicing elit. Labore ipsum eveniet sint recusandae
+          officia pariatur ea accusamus eaque commodi. Qui facere placeat aut
+          explicabo commodi corporis, aliquid dolorum aperiam exercitationem?
+          Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        </h1>
         Lorem ipsum dolor sit amet consectetur, adipisicing elit. Alias cumque
         nostrum quibusdam nihil tempora natus consequuntur ducimus officiis,
         amet ut consectetur laboriosam commodi officia ratione quod
